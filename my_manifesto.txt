@@ -1,0 +1,7 @@
+----- My Open Source Manifesto -----
+User: harsh
+Date: Tue Mar 31 01:53:40 IST 2026
+
+I use Git in my daily work.
+For me, freedom means Because it is free and flexible.
+I would like to build an app and share it with others.
